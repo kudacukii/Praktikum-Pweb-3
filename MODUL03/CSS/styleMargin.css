@@ -1,0 +1,13 @@
+.box {
+    background: rgb(154, 214, 249); /* Warna latar biru muda */
+    height: 200px;  /* Tinggi box */
+    width: 300px;   /* Lebar box */
+    margin: 20px;   /* Jarak di semua sisi */
+}
+
+.box-dua {
+    background: rgb(221, 236, 248); /* Warna latar biru lebih muda */
+    height: 100px;  /* Tinggi box */
+    width: 200px;   /* Lebar box */
+    margin-left: 70px; /* Hanya memberikan jarak ke kiri */
+}

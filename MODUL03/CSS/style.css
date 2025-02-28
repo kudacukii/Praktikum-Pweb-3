@@ -1,0 +1,8 @@
+#tulisan {
+    color: rgb(73, 129, 241); /* Warna teks biru muda */
+}
+
+.box {
+    background: rgb(217, 231, 246); /* Warna latar belakang biru sangat muda */
+    padding: 10px; /* Memberikan jarak dalam kotak */
+}
